@@ -1,0 +1,345 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "衣服",
+      "goodsList": [
+        {
+          "id": 1,
+          "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+          "name": "男士衣服2"
+        },
+        {
+          "id": 2,
+          "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+          "name": "男士衣服"
+        },
+        {
+          "id": 3,
+          "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+          "name": "男士衣服2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "手机",
+      "goodsList": [
+        {
+          "id": 1,
+          "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+          "name": "男士手机"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "外套",
+      "goodsList": [
+        {
+          "id": 1,
+          "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+          "name": "男士外套"
+        }
+      ]
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "price": "100",
+      "belong": "天猫",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ],
+      "evaluate": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ]
+    },
+    {
+      "id": 2,
+      "price": "100",
+      "belong": "天猫",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ],
+      "evaluate": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ]
+    },
+    {
+      "id": 3,
+      "price": "100",
+      "belong": "天猫",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ],
+      "evaluate": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ]
+    },
+    {
+      "id": 4,
+      "price": "100",
+      "belong": "天猫",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ],
+      "evaluate": [
+        "领卷立减90",
+        "送100积分",
+        "下单即送货"
+      ]
+    }
+  ],
+  "swipe": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "shopCart": [
+    {
+      "id": 1,
+      "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "pro": "木门老榆木长120cm;整装",
+      "price": "100",
+      "num": 10,
+      "check": false
+    },
+    {
+      "id": 2,
+      "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "pro": "木门老榆木长120cm;整装",
+      "price": "100",
+      "num": 10,
+      "check": false
+    },
+    {
+      "id": 3,
+      "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "pro": "木门老榆木长120cm;整装",
+      "price": "100",
+      "num": 10,
+      "check": false
+    },
+    {
+      "id": 4,
+      "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "pro": "木门老榆木长120cm;整装",
+      "price": "100",
+      "num": 10,
+      "check": false
+    },
+    {
+      "id": 5,
+      "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "pro": "木门老榆木长120cm;整装",
+      "price": "100",
+      "num": 10,
+      "check": false
+    },
+    {
+      "num": 1,
+      "check": false,
+      "price": "100",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "pro": "白色;40",
+      "id": 6
+    },
+    {
+      "num": 1,
+      "check": false,
+      "price": "100",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "pro": "白色;40",
+      "id": 7
+    },
+    {
+      "num": 1,
+      "check": false,
+      "price": "100",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "pro": "白色;40",
+      "id": 8
+    },
+    {
+      "num": 1,
+      "check": false,
+      "price": "100",
+      "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "pro": "白色;40",
+      "id": 9
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": 123456,
+      "password": 123456,
+      "name": "木子"
+    }
+  ],
+  "order": [
+    [
+      {
+        "id": 1,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      },
+      {
+        "id": 3,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      },
+      {
+        "id": 2,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "num": 1,
+        "check": true,
+        "price": "100",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "name": "UGG秋季女士配件珍妮斜挎包",
+        "pro": "白色;40",
+        "id": 7,
+        "unitPrice": 100
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "name": "九间房实木墙柜吊柜新中式家具禅意简约壁柜老榆木挂柜中式茶格柜",
+        "imgSrc": "http://39.97.184.183:8080/img/yifu.jpg",
+        "pro": "木门老榆木长120cm;整装",
+        "price": "100",
+        "num": 10,
+        "check": true,
+        "unitPrice": 1000
+      }
+    ]
+  ]
+}

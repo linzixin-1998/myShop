@@ -1,0 +1,58 @@
+{
+  "category": [
+    { "id": 1, "cateName": "男士" }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "price": "100-200",
+      "belong": "天猫",
+      "imgSrc": "/static/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": ["领卷立减90", "送100积分", "下单即送货"],
+      "evaluate": ["领卷立减90", "送100积分", "下单即送货"]
+    },
+    {
+      "id": 2,
+      "price": "100-200",
+      "belong": "天猫",
+      "imgSrc": "/static/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": ["领卷立减90", "送100积分", "下单即送货"],
+      "evaluate": ["领卷立减90", "送100积分", "下单即送货"]
+    },
+    {
+      "id": 3,
+      "price": "100-200",
+      "belong": "天猫",
+      "imgSrc": "/static/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": ["领卷立减90", "送100积分", "下单即送货"],
+      "evaluate": ["领卷立减90", "送100积分", "下单即送货"]
+    },
+    {
+      "id": 4,
+      "price": "100-200",
+      "belong": "天猫",
+      "imgSrc": "/static/yifu.jpg",
+      "name": "UGG秋季女士配件珍妮斜挎包",
+      "address": "浙江杭州",
+      "expressPrice": "0.00",
+      "monthlySales": 100,
+      "activity": ["领卷立减90", "送100积分", "下单即送货"],
+      "evaluate": ["领卷立减90", "送100积分", "下单即送货"]
+    }
+  ],
+  "swipe": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ]
+}
